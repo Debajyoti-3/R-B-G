@@ -1,6 +1,6 @@
 # R-B-G 🎨
 
-**R-B-G** is a fun and interactive React application that dynamically changes the background color of the page. With a click of a button, you can apply a random color or choose from predefined color options. It's a simple yet visually appealing project to brighten up your day!
+**R-B-G**(Random Background) is a fun and interactive React application that dynamically changes the background color of the page. With a click of a button, you can apply a random color or choose from predefined color options. It's a simple yet visually appealing project to brighten up your day!
 
 ---
 
