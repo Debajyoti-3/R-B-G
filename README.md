@@ -19,4 +19,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/R-B-G.git
+   git clone https://github.com/Debajyoti-3/R-B-G.git
